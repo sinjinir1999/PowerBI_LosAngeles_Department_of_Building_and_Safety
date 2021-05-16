@@ -1,4 +1,4 @@
-# Los Angeles Department of Building and Safety
+# LOS ANGELES DEPARTMENT OF BUILDING AND SAFETY
 ## A Basic Report using PowerBI | Problem Statement
 - How many Building and Building type present?
 - How many Bulding have ENERGY STAR < 50?
